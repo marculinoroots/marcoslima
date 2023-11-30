@@ -88,7 +88,6 @@ h1 {
     font-weight: bold;
     position: relative;
     z-index: 1;
-    margin-top: 20px; /* Adicione um espaçamento no topo para evitar sobreposição */
 }
 
 .sobre-content h2 {
